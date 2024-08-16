@@ -1,4 +1,4 @@
-# About
+# Problem List Generator
 `problem-list-generator` is an experimental local LLM trained to generate a list of active clinical problems from a History and Physical (H&P) section of a clinical note. 
 
 ![Problem List Generator Demo](assets/problemlistdemo.gif)
